@@ -155,7 +155,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="links">🔗 Assets</a>
+<!-- ## <a name="links">🔗 Assets</a>
 
 Assets and snippets used in the project can be found in the **[video kit](https://jsmastery.com/video-kit/8127ec28-61db-4295-a85b-c649df6ee408)**.
 
@@ -172,4 +172,4 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 
 <a href="https://jsm.dev/books-jsm" target="_blank">
   <img src="public/readme/readme-jsmpro.webp" alt="Project Banner">
-</a>
+</a> -->
